@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/uyrMHLOQFRYG1CJoypD4waz34TgxakzAVqjo6r/Lv0=</dsig:DigestValue>
+        <dsig:DigestValue>I9HUKu6BMBK5GNP46epgJ/VNmf/zuQOBWYJtXFxRt/U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1397,13 +1397,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ModuloFiscalFel.exe.config" size="21324">
+  <file name="ModuloFiscalFel.exe.config" size="20947">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oKiTKnz1vIfuL3YbQ6d1SFcwxZbx16/a4Y4Cwy8hyWM=</dsig:DigestValue>
+      <dsig:DigestValue>1n2pKjMXL4wVljlKIgJCS+YAXjDITnS27EkIel8phU8=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
