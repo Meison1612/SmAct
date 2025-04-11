@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ModuloFiscalFel.exe" size="276968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ModuloFiscalFel.exe" size="272360">
       <assemblyIdentity name="ModuloFiscalFel" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NX57eljytky+8/0/7fvtJNQiLOnhFY4Ed7TfzhW7YaA=</dsig:DigestValue>
+        <dsig:DigestValue>/uyrMHLOQFRYG1CJoypD4waz34TgxakzAVqjo6r/Lv0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -114,14 +114,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NucLibrary 2.dll" size="36352">
-      <assemblyIdentity name="NucLibrary 2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NucLibrary 2.0.dll" size="36352">
+      <assemblyIdentity name="NucLibrary 2.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uH/n17VZnDHLTK2hHqvzzU8yADmD11esFqkDfpo9PK0=</dsig:DigestValue>
+        <dsig:DigestValue>FVxQlqMds2tsEPykzMHlEAfJvp3NRbW3P+GGxNYndRc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
