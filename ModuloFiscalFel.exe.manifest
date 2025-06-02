@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Rc9Nr37pnTcfSXRbyrcMcQvxZVWhFhB9hp3gu1TYGE0=</dsig:DigestValue>
+        <dsig:DigestValue>hHG40+JjJ3uC685AZjLrpYN80bguO8gF3oH2CSGff5s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -114,14 +114,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NucLibrary 2.dll" size="36352">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NucLibrary 2.dll" size="35840">
       <assemblyIdentity name="NucLibrary 2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ri6ejCHj8qhwyBArUp0giI0p5v+Ozjo7G25nsboaa10=</dsig:DigestValue>
+        <dsig:DigestValue>1pYJO/CL65y4ARUMm7xYfKRU1qFcCQ5Bw3tRq3ajNTw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
