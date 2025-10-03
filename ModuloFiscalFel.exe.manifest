@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ModuloFiscalFel.exe" size="278504">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ModuloFiscalFel.exe" size="280040">
       <assemblyIdentity name="ModuloFiscalFel" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5vbBEWTQzy2gWUxJFj4MuYvEwb96kdOcR1UfmZOOJQI=</dsig:DigestValue>
+        <dsig:DigestValue>Fh5l7QEiEGnY047ytp3pdSrXCvsqc+J1lhPjA7DQVDU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
